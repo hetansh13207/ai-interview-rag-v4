@@ -223,6 +223,3 @@ git commit -m "Prepare AI Interview RAG for public repository"
 - If a credential was present in a shared archive or source control, rotate it even if the file is now cleaned.
 - The README and template do not contain live provider credentials.
 
-## License
-
-Add a license file if you intend to publish this project with an explicit open-source license.
